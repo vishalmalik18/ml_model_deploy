@@ -5,6 +5,7 @@ if hungry=='Yes':
     print('eat burger')
     print('eat fries')
     print('eat 2 burger')
+    print('eat 2 pizza')
 
 
 else:
