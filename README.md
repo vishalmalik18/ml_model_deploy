@@ -2,6 +2,8 @@
 
 This repository demonstrates how to test and deploy a machine learning model using two popular Python web frameworks: **Flask** and **FastAPI**.
 
+📁 **Folder:** `Basic Framework`
+
 Included:
 - Model training and serialization
 - REST API implementation with Flask and FastAPI
