@@ -9,3 +9,11 @@ Included:
 - REST API implementation with Flask and FastAPI
 - Local testing with sample input
 - Basic request testing scripts
+
+---
+
+## 👤 Author
+
+**Vishal Malik**  
+🔗 [LinkedIn](https://www.linkedin.com/in/vishalmalik18/)  
+🔗 [GitHub](https://github.com/vishalmalik18)
