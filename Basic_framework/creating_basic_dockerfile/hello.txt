@@ -1,3 +1,5 @@
 building command 
 
 docker build -t my_docker_app .
+
+by running ls command you can check what inside in your docker app
