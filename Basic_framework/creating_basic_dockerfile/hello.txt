@@ -3,3 +3,9 @@ building command
 docker build -t my_docker_app .
 
 by running ls command you can check what inside in your docker app
+
+by running runing this command you can check image in docker 
+
+-> docker images
+
+
