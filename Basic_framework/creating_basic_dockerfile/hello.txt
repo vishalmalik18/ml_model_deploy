@@ -8,4 +8,8 @@ by running runing this command you can check image in docker
 
 -> docker images
 
+running docker image commmand 
+
+docker run my_docker_app
+
 
