@@ -13,3 +13,7 @@ running docker image commmand
 docker run my_docker_app
 
 
+Show running containers only -> docker ps
+
+show both running and stopped -> docker ps -a
+
